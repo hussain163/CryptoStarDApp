@@ -141,7 +141,11 @@ Do not use the [Old depreacted zipped starter code](https://s3.amazonaws.com/vid
 Output:
 
 Truffle version: 5.5.4
+
 OpenZepplin version: 2.3.0
+
 ERC-721 Token Name: Udacity Token
+
 ERC-721 Token Symbol: UDT
+
 “Token Address” on the Rinkeby Network: 0xc4cD696f3bd35aeCF896D726d965d4C790e85718
